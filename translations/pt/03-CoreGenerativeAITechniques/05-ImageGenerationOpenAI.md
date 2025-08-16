@@ -40,7 +40,7 @@ No exemplo [ImageGeneration-01](./src/ImageGeneration-01), implementamos uma apl
 
 ## Próximo Passo
 
-👉 [Vamos executar modelos localmente com AI Toolkit e Docker!](./06-AIToolkitAndDockerModels.md)
+👉 [Vamos executar modelos localmente com AI Toolkit, Docker e Foundry Local!](../../../03-CoreGenerativeAITechniques/06-LocalModelRunners.md)
 
 **Aviso Legal**:  
 Este documento foi traduzido utilizando serviços de tradução baseados em IA. Embora nos esforcemos para garantir a precisão, esteja ciente de que traduções automatizadas podem conter erros ou imprecisões. O documento original em seu idioma nativo deve ser considerado a fonte oficial. Para informações críticas, recomenda-se a tradução profissional humana. Não nos responsabilizamos por quaisquer mal-entendidos ou interpretações equivocadas decorrentes do uso desta tradução.
